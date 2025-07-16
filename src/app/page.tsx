@@ -24,12 +24,13 @@ export default function Home() {
         </div>
       </main>
 
-      <footer className="row-start-3 flex justify-center items-center w-full">
+      <footer className="row-start-3 bottom-2 flex justify-center items-center w-full">
         <img
           src={"/Footer.webp"}
-          alt="Coming Soon"
+          alt="Qasioun EX Logo"
           width={200}
           height={200}
+          
         />
       </footer>
     </div>
